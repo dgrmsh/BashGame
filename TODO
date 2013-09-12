@@ -1,0 +1,1 @@
+1. stop showing cursor, looks awful when different processes draw smth simultaneously.

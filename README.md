@@ -1,4 +1,4 @@
 BashGame
-========
+===
 
-bash and escape sequences experiments
+just for fun - some experiments with bash
